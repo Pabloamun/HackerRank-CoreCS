@@ -11,5 +11,8 @@
 > * [Object Oriented Programming Challenges](https://www.hackerrank.com/domains/core-cs/object-oriented-programming)
 >
 >
+> **Algorithms**
+>
+> * [Sorting Challenges](https://www.hackerrank.com/domains/core-cs/sorting)
 >
 >
