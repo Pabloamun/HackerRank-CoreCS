@@ -13,10 +13,11 @@
 >
 > **Algorithms**
 >
-> * [Sorting Challenges](https://www.hackerrank.com/domains/core-cs/sorting)
 > * [Searching Challenges](https://www.hackerrank.com/domains/core-cs/search)
+> * [Sorting Challenges](https://www.hackerrank.com/domains/core-cs/sorting)
+> * [String Challenges](https://www.hackerrank.com/domains/core-cs/strings)
 >
 >
 > **Data Structures**
 >
-> * [Arrays](https://www.hackerrank.com/domains/core-cs/arrays)
+> * [Arrays Challenges](https://www.hackerrank.com/domains/core-cs/arrays)
