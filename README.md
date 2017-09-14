@@ -16,3 +16,7 @@
 > * [Sorting Challenges](https://www.hackerrank.com/domains/core-cs/sorting)
 > * [Searching Challenges](https://www.hackerrank.com/domains/core-cs/search)
 >
+>
+> **Data Structures**
+>
+> * [Arrays](https://www.hackerrank.com/domains/core-cs/arrays)
